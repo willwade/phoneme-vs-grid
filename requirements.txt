@@ -1,1 +1,3 @@
+maptlotlib
 streamlit
+numpystreamlit
